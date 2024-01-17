@@ -1,4 +1,4 @@
 # demo-repository
 
 # # Subheader
-A portfolio page to showcase my projects!
+A quiz made while a particpant for the GWC Self Paced Program. 
